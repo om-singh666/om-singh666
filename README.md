@@ -63,12 +63,6 @@ $ ./run_stats.sh
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=om-singh666&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&currStreakNum=00FF41&sideNums=00FF41" width="48%" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=om-singh666&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1b0d&height=3&width=100%" />
-
 ```bash
 $ cat contact.txt
 ```
