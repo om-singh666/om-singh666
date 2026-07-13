@@ -49,6 +49,8 @@ $ ls -la projects/
 
 - 🕸️ **[honeytrap](https://github.com/om-singh666/honeytrap)** — SSH honeypot (Python/Paramiko + SQLite + Chart.js dashboard)
 - 📖 **[Burp-Suite-Certified-Practitioner-Notes](https://github.com/om-singh666/Burp-Suite-Certified-Practitioner-Notes)** — BSCP exam prep notes & lab commands
+- 🔐 **[cipherkey](https://github.com/om-singh666/cipherkey)** — Smart password generator with live strength meter, crack-time estimator & cyberpunk UI
+- 🏫 **[bunkr](https://github.com/om-singh666/bunkr)** — Smart attendance tracker with real-time % calculations and 75%-rule guardian (React/Vite)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1b0d&height=3&width=100%" />
 
@@ -72,9 +74,9 @@ $ cat contact.txt
 ```
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
+<a href="https://www.linkedin.com/in/om-singh-26b88732b/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
 <a href="mailto:omsingh5606@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
-<a href="https://tryhackme.com/p/YOUR-THM-USERNAME"><img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF41" /></a>
+<a href="https://tryhackme.com/p/Eviathan"><img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF41" /></a>
 </p>
 
 <p align="center">
