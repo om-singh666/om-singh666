@@ -10,7 +10,7 @@
 ### 🔎 About Me
 
 - 🛡️ Final-year CSE (AI) student, currently building offensive security skills
-- 🥇 **TryHackMe Top 1%** — Jr Penetration Tester path
+- 🥇 **TryHackMe Top 1%**
 - 🎓 Cisco Certified Ethical Hacker
 - 📚 Following a structured cert roadmap: **PortSwigger BSCP → eJPT → CPTS → OSCP**
 - 🧠 Background in SOC & Threat Hunting before moving into offensive security
