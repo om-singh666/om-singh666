@@ -1,169 +1,98 @@
-# `root@om:~# whoami`
+<div align="center">
 
-### Om Singh
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=180&section=header&text=Om%20Singh&fontSize=76&fontColor=7CFC00&animation=fadeIn&fontAlignY=45&fontFamily=monospace" alt="header banner" width="100%" />
 
-> **Offensive Security | Penetration Testing | Web Security**
+</div>
 
-Cybersecurity-focused Computer Science student building towards a career in **professional Penetration Testing**.
+<br>
 
-```text
-[ DEFENSIVE SECURITY ] ───────────────► [ OFFENSIVE SECURITY ]
-         SOC                                  PENTESTING
-````
-
----
-
-## `./current_mission`
-
-```yaml
-role: Aspiring Penetration Tester
-current_focus: HTB CPTS
-primary_goal: Professional Penetration Testing
-
-focus:
-  - Web Application Security
-  - Network Pentesting
-  - Active Directory
-  - Linux
-  - Practical Pentesting Methodology
+```bash
+$ whoami
+> Om Singh
+> Final Year B.Tech CSE (AI) @ KIET Group of Institutions, Ghaziabad
+> Role   : Penetration Tester (in training)
+> Status : root access to offense, not defense
 ```
 
-> `Enumerate → Exploit → Escalate → Report`
+## `0x00` About Me
 
----
+- 🎯 Focused on **offensive security** — pentesting, VAPT, web & network exploitation
+- 🔄 Started on the **defensive side (SOC)**, switched tracks to go on the offense
+- 🧠 Currently grinding **Hack The Box CPTS** — modules, labs, notes, repeat
+- 🥇 **Top 1% globally** on TryHackMe — 250+ rooms cleared
+- 🚀 Endgame: Pentesting → **AI Red Teaming**
 
-## `./background`
+## `0x01` Arsenal
 
-I started my cybersecurity journey on the **defensive side**, building a foundation in SOC operations, threat detection, networking, and security fundamentals.
+**Offense**
 
-Now I've shifted my focus towards **offensive security**, with the goal of becoming a well-rounded penetration tester capable of assessing web applications, networks, and Windows environments.
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=00FF41)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logoColor=00FF41)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41)
+![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logoColor=00FF41)
+![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge&logoColor=00FF41)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00FF41)
 
----
+**Foundations**
 
-## `./skills`
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF41)
+![x86-64 ASM](https://img.shields.io/badge/x86--64_ASM-000000?style=for-the-badge&logoColor=00FF41)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=for-the-badge&logoColor=00FF41)
 
-### Offensive Security
+## `0x02` Projects
 
-`Penetration Testing` `Vulnerability Assessment`
-`Web Application Security` `Network Security`
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### Security Tools
+**[🔐 CipherKey](https://github.com/om-singh666/CipherKey)**
 
-`Burp Suite` `Nmap` `Wireshark`
-`Kali Linux` `Ghidra` `GDB` `Splunk`
+Keyword-based password generator with real-time strength analysis and brute-force crack-time estimation.
 
-### Networking
+</td>
+</td>
+<td width="33%" valign="top">
 
-`TCP/IP` `DNS` `DHCP` `Routing`
-`Switching` `VLANs` `VPNs` `Subnetting`
+**[⚙️ ReverseMe-X64](https://github.com/om-singh666/ReverseMe-X64)**
 
-### Security Frameworks
+x86-64 ELF reverse engineering — debugged with GDB & Ghidra to trace control flow and function logic.
 
-`OWASP` `MITRE ATT&CK` `NIST CSF`
+</td>
+</tr>
+</table>
 
-### Programming
+## `0x03` Certifications
 
-`Bash` `C++` `x86-64 Assembly` `MySQL`
+- 🎓 Ethical Hacker — Cisco Networking Academy
+- 🎓 Network Technician Career Path — Cisco Networking Academy
+- 🎓 AI Security Learning Path — TryHackMe
+- 🎓 SOC Level 1 Learning Path — TryHackMe
+- 🎓 Cyber Security Foundation — Infosys Springboard
 
----
+<details>
+<summary>📜 <b>cat achievements.log</b></summary>
+<br>
 
-## `./projects`
+- Top 1% globally on the TryHackMe leaderboard
+- 250+ hands-on rooms & CTF-style boxes solved on TryHackMe
+- 150+ DSA problems solved in C++ on LeetCode
 
-### 🔐 CipherKey
+</details>
 
-**Secure Password Generator**
+## `0x04` Connect
 
-* Generates strong passwords from user-defined keywords
-* Real-time password strength analysis
-* Brute-force crack-time estimation
-* Customizable length, symbols, numbers, and uppercase characters
+<div align="center">
 
-### 🧩 ReverseMe-X64
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/om-singh666)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:omsingh5606@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/om-singh666)
 
-**x86-64 Assembly & Reverse Engineering**
+</div>
 
-* Analyzed and debugged an x86-64 ELF binary
-* Used **GDB** and **Ghidra** for reverse engineering
-* Studied program execution and control flow
-* Applied knowledge of registers, stack operations, memory addressing, and functions
-
----
-
-## `./achievements`
-
-```text
-┌──────────────────────────────────────────────┐
-│  TRYHACKME                                   │
-│                                              │
-│  Global Rank        →  Top 1%                │
-│  Hands-on Rooms     →  250+                 │
-│  Focus              →  CTFs / Vulnerable     │
-│                         Machines              │
-└──────────────────────────────────────────────┘
-```
-
-* Ranked in the **Top 1% globally** on TryHackMe
-* Completed **250+ hands-on rooms**
-* Solved **150+ DSA problems** in C++ on LeetCode
-
----
-
-## `./certifications`
-
-* **Ethical Hacker** — Cisco Networking Academy
-* **Network Technician Career Path** — Cisco Networking Academy
-* **AI Security Learning Path** — TryHackMe
-* **SOC Level 1 Learning Path** — TryHackMe
-* **Cyber Security Foundation Certification** — Infosys Springboard
-
----
-
-## `./learning`
-
-Currently working towards:
-
-```text
-HTB CPTS
-   │
-   ├── Web Application Pentesting
-   ├── Network Pentesting
-   ├── Linux
-   ├── Active Directory
-   └── Practical Pentesting Methodology
-```
-
----
-
-## `./mindset`
-
-```text
-Recon.
-Enumerate.
-Understand.
-Exploit.
-Escalate.
-Document.
-Repeat.
-```
-
-> **The goal isn't to know every tool.
-> The goal is to understand how systems break.**
-
----
-
-## `./connect`
-
-**LinkedIn:** [Om Singh](https://www.linkedin.com/)
-**GitHub:** [@om-singh666](https://github.com/om-singh666)
-**Email:** [omsingh5606@gmail.com](mailto:omsingh5606@gmail.com)
-
----
-
-```text
-root@om:~# exit
-
-[ connection closed ]
-```
-
-```
-```
+<div align="center">
+<sub><b>sudo exploit --ethically</b></sub>
+</div>
