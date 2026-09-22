@@ -24,7 +24,7 @@
 
 ## `whoami`
 
-```text
+
 ┌──[ om@kali ]─[ ~/pentesting ]
 │
 ├── $ whoami
