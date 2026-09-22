@@ -58,13 +58,6 @@ Keyword-based password generator with real-time strength analysis and brute-forc
 </td>
 <td width="33%" valign="top">
 
-**[🕵️ HoneyTrap](https://github.com/om-singh666/honeytrap)**
-
-SSH honeypot built with Python + Paramiko, logging attacker sessions to SQLite with an HTML report layer.
-
-</td>
-<td width="33%" valign="top">
-
 **[⚙️ ReverseMe-X64](https://github.com/om-singh666/ReverseMe-X64)**
 
 x86-64 ELF reverse engineering — debugged with GDB & Ghidra to trace control flow and function logic.
