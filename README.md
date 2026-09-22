@@ -1,150 +1,106 @@
-# om-singh
-````md
-# `root@om:~# whoami`
+<div align="center">
 
-### Om Singh
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=200&section=header&text=Om%20Singh&fontSize=58&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=sudo%20exploit%20--ethically&descAlignY=58&descAlign=50&fontFamily=monospace" alt="header banner" width="100%" />
 
-> Offensive Security | Penetration Testing | Web Security
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=Offensive+Security+%7C+Penetration+Testing;Prepping+for+HTB+CPTS;Top+1%25+Globally+on+TryHackMe;SOC+Analyst+-%3E+Red+Teamer" alt="typing banner" />
 
-Cybersecurity-focused Computer Science student building towards
-a career in professional Penetration Testing.
+</div>
 
-```text
-[ DEFENSIVE SECURITY ] ───────► [ OFFENSIVE SECURITY ]
-         SOC                         PENTESTING
-````
+<br>
 
-Currently focused on:
-
-* HTB Certified Penetration Testing Specialist (CPTS)
-* Web Application Security
-* Network & Infrastructure Pentesting
-* Linux & Active Directory
-* Practical Pentesting Methodology
-
-## `./skills`
-
-### Offensive Security
-
-`Penetration Testing` `Vulnerability Assessment`
-`Web Application Security` `Network Security`
-
-### Tools
-
-`Burp Suite` `Nmap` `Wireshark` `Kali Linux`
-`Ghidra` `GDB` `Splunk`
-
-### Networking
-
-`TCP/IP` `DNS` `DHCP` `Routing`
-`Switching` `VLANs` `VPNs` `Subnetting`
-
-### Security Frameworks
-
-`OWASP` `MITRE ATT&CK` `NIST CSF`
-
-## `./projects`
-
-### 🔐 CipherKey
-
-Secure password generator with password-strength analysis
-and brute-force crack-time estimation.
-
-### 🧩 ReverseMe-X64
-
-x86-64 reverse engineering project using GDB & Ghidra,
-focused on program execution, control flow, registers,
-stack operations and memory analysis.
-
-## `./background`
-
-Started my cybersecurity journey on the defensive side,
-building a foundation through SOC and threat-detection concepts.
-
-Now focused on the offensive side — developing practical
-penetration testing skills across web applications,
-networks and Windows environments.
-
-## `./certifications`
-
-* Network Technician Career Path — Cisco Networking Academy
-* Ethical Hacker — Cisco Networking Academy
-* AI Security Learning Path — TryHackMe
-* Cyber Security Foundation — Infosys Springboard
-* SOC Level 1 — TryHackMe
-
-## `./status`
-
-```yaml
-role: Aspiring Penetration Tester
-focus: Offensive Security
-current_goal: HTB CPTS
-background: SOC / Defensive Security
-location: India
+```bash
+$ whoami
+> Om Singh
+> Final Year B.Tech CSE (AI) @ KIET Group of Institutions, Ghaziabad
+> Role   : Penetration Tester (in training)
+> Status : root access to offense, not defense
 ```
 
-> `Enumerate. Exploit. Learn. Repeat.`
+## `0x00` About Me
 
-## `./connect`
+- 🎯 Focused on **offensive security** — pentesting, VAPT, web & network exploitation
+- 🔄 Started on the **defensive side (SOC)**, switched tracks to go on the offense
+- 🧠 Currently grinding **Hack The Box CPTS** — modules, labs, notes, repeat
+- 🥇 **Top 1% globally** on TryHackMe — 250+ rooms cleared
+- 🚀 Endgame: Pentesting → **AI Red Teaming**
 
-* LinkedIn
-* GitHub
-* Email
+## `0x01` Arsenal
 
-````
+**Offense**
 
----
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=00FF41)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logoColor=00FF41)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41)
+![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logoColor=00FF41)
+![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge&logoColor=00FF41)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00FF41)
 
-## 4. Abhi **Commit changes** karo
+**Foundations**
 
-Neeche:
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF41)
+![x86-64 ASM](https://img.shields.io/badge/x86--64_ASM-000000?style=for-the-badge&logoColor=00FF41)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=for-the-badge&logoColor=00FF41)
 
-**Commit changes**
+## `0x02` Projects
 
-Commit message:
+<table>
+<tr>
+<td width="33%" valign="top">
 
-```text
-Update profile README
-````
+**[🔐 CipherKey](https://github.com/om-singh666/CipherKey)**
 
-Then **Commit changes**.
+Keyword-based password generator with real-time strength analysis and brute-force crack-time estimation.
 
----
+</td>
+<td width="33%" valign="top">
 
-## 5. Profile pe wapas jao
+**[🕵️ HoneyTrap](https://github.com/om-singh666/honeytrap)**
 
-Apni GitHub profile open karo.
+SSH honeypot built with Python + Paramiko, logging attacker sessions to SQLite with an HTML report layer.
 
-README automatically profile ke top par show hona chahiye.
+</td>
+<td width="33%" valign="top">
 
-Agar nahi dikhta:
+**[⚙️ ReverseMe-X64](https://github.com/om-singh666/ReverseMe-X64)**
 
-**Settings → Repositories → profile repository check karo**
+x86-64 ELF reverse engineering — debugged with GDB & Ghidra to trace control flow and function logic.
 
-Repository ka naam **exactly GitHub username** hona chahiye.
+</td>
+</tr>
+</table>
 
----
+## `0x03` Certifications
 
-# 6. Ab isko aur aesthetic banayenge
+- 🎓 Ethical Hacker — Cisco Networking Academy
+- 🎓 Network Technician Career Path — Cisco Networking Academy
+- 🎓 AI Security Learning Path — TryHackMe
+- 🎓 SOC Level 1 Learning Path — TryHackMe
+- 🎓 Cyber Security Foundation — Infosys Springboard
 
-Pehle basic version live kar.
+<details>
+<summary>📜 <b>cat achievements.log</b></summary>
+<br>
 
-Uske baad hum second step mein add kar sakte hain:
+- Top 1% globally on the TryHackMe leaderboard
+- 250+ hands-on rooms & CTF-style boxes solved on TryHackMe
+- 150+ DSA problems solved in C++ on LeetCode
 
-```text
-┌─────────────────────────────────────────┐
-│  root@om:~# whoami                      │
-│                                         │
-│  OM SINGH                               │
-│  OFFENSIVE SECURITY / PENTESTING       │
-│                                         │
-│  DEFENSIVE ───────────────► OFFENSIVE   │
-│     SOC                     PENTESTING   │
-└─────────────────────────────────────────┘
-```
+</details>
 
-Plus **terminal-style sections, icons, skill badges, clickable project links, LinkedIn/GitHub buttons** etc.
+## `0x04` Connect
 
-Lekin main recommend karunga ki **overdo mat karna**. Tera profile professional pentester-oriented hona chahiye, gaming/hacker-template jaisa nahi.
+<div align="center">
 
-Aur ek cheez: resume mein **TryHackMe Top 1% + 250+ rooms** already strong achievement hai, so README mein usko prominently but cleanly add kar sakte hain. 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)]([https://linkedin.com/in/om-singh666](https://www.linkedin.com/in/om-singh-26b88732b/))
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:omsingh5606@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/om-singh666)
+
+</div>
+
+<div align="center">
+<sub><b>sudo exploit --ethically</b></sub>
+</div>
