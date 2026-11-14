@@ -11,7 +11,7 @@
 ```bash
 $ whoami
 > Om Singh
-> Final Year B.Tech CSE (AI) @ KIET Group of Institutions, Ghaziabad
+> Final Year B.Tech CSE (AI) @KIET Group of Institutions, Ghaziabad
 > Role   : Penetration Tester (in training)
 > Status : root access to offense, not defense
 ```
@@ -88,7 +88,7 @@ x86-64 ELF reverse engineering — debugged with GDB & Ghidra to trace control f
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/om-singh666)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/om-singh-kiet)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:omsingh5606@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/om-singh666)
 
